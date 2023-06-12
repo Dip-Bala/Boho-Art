@@ -1,0 +1,84 @@
+body{
+    padding-left:400px ;
+    padding-top:30px;
+    padding-bottom: 30px;
+    background-color: #B45C2B;
+   
+}
+
+.main-container{
+    height: 700px;
+    width: 600px;
+    background-color: black;
+    position:relative;
+    border: 0.5rem;
+    border-style: solid;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.moon{
+    border-radius: 100%;
+    height:170px;
+    width:170px;
+    background-color: #B45C2B;
+    position:absolute;
+    left: 47px;
+    top: 132px;
+}
+.moon-eclipse{
+    border-radius: 100%;
+    height:145px;
+    width:145px;
+    background-color: #000;
+    position:absolute;
+    left: 114px;
+    top: 129px;
+}
+.layer-peach{
+    position: absolute;
+    width: 600px;
+    /* height: 700px; */
+    top: 220px;
+
+}
+
+.layer-beige{
+    position: absolute;
+    width: 600px;
+    top: 350px;
+}
+.beige-block{
+    position: absolute;
+    width: 600px;
+    height: 150px;
+    background-color: #B45C2B;
+    top: 390px;
+}
+.layer-brown{
+    position: absolute;
+    width: 600px;
+    top: 430px;
+
+}
+.brown-block{
+    position: absolute;
+    width: 600px;
+    height: 60px;
+    background-color: #632400;
+    top: 560px;
+}
+.dark{
+    position: absolute;
+    width: 600px;
+    top: 500px;
+
+
+}
+.dark-block{
+    position: absolute;
+    width: 600px;
+    height: 70px;
+    background-color: #310C00;
+    top: 630px;
+
+}
